@@ -51,12 +51,11 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canvion&show_icons=true&theme=transparent&hide_border=true&v=1" alt="Estadísticas de canvion" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canvion&theme=transparent&hide_border=true" alt="Racha de canvion" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=canvion&show_icons=true&theme=transparent&hide_border=true" alt="Estadísticas de canvion" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=canvion&theme=transparent&hide_border=true" alt="Racha de canvion" width="48%"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canvion&layout=compact&theme=transparent&hide_border=true&v=1" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=canvion&layout=compact&theme=transparent&hide_border=true" alt="Lenguajes más usados"/>
 </p>
 
 ---
