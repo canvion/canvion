@@ -10,7 +10,7 @@
 
 ---
 
-Estudiante de DAW en CIFP Francesc Borja Moll. He construido desde cero una aplicación empresarial full-stack con Angular 21, Spring Boot, PostgreSQL y Docker — cubriendo autenticación JWT con 2FA, CI/CD, monitorización y tests E2E.
+Desarrollador full-stack con Angular 21, Spring Boot, PostgreSQL, Docker entre otras herramientas — cubriendo autenticación JWT con 2FA, CI/CD, monitorización y tests E2E.
 
 ---
 
