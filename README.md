@@ -1,67 +1,52 @@
-<h1 align="center">Hola, soy Adrián Cervera 👋</h1>
-<h3 align="center">Full Stack Developer</h3>
+# Adrián Cervera
+
+<p align="center">Full-stack developer · Angular + Spring Boot · Palma, España</p>
 
 <p align="center">
   <a href="mailto:adriancerverafernandez@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactar por Email"/>
+    <img src="https://img.shields.io/badge/Email-adriancerverafernandez@hotmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
-
-- 📍 **Localización:** Palma de Mallorca, España
-- 🎓 **Educación:** Estudiando Desarrollo de Aplicaciones Web (DAW)
-- 📚 **Enfoque:** Actualmente aprendiendo y profundizando en Desarrollo Web
-- 💬 **Tecnologías:** JavaScript, TypeScript, PHP, Java, Python, HTML, CSS
-- 🚀 **Frameworks:** Angular, Spring Boot
-- 🗄 **Bases de datos:** MySQL, PostgreSQL, MariaDB
-- 🛠 **Herramientas:** Git, Docker
+Estudiante de DAW en CIFP Francesc Borja Moll. He construido desde cero una aplicación empresarial full-stack con Angular 21, Spring Boot, PostgreSQL y Docker — cubriendo autenticación JWT con 2FA, CI/CD, monitorización y tests E2E.
 
 ---
 
-## 🧰 Stack Tecnológico
+### Stack principal
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-</p>
+### También trabajo con
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 ---
 
-## 📊 Estadísticas de GitHub
+### Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=canvion&show_icons=true&theme=transparent&hide_border=true" alt="Estadísticas de canvion" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=canvion&theme=transparent&hide_border=true" alt="Racha de canvion" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=canvion&show_icons=true&theme=transparent&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=canvion&theme=transparent&hide_border=true" width="48%"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=canvion&layout=compact&theme=transparent&hide_border=true" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=canvion&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Gráfico de Contribuciones
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=canvion&theme=transparent&hide_border=true&bg_color=00000000" alt="Gráfico de Actividad" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=canvion&theme=transparent&hide_border=true&bg_color=00000000" width="100%"/>
 </p>
